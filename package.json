@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/Bezews/Bezews#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.10"
+  },
+  "dependencies": {
+    "gulp-bump": "^2.4.0"
   }
 }

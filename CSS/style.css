@@ -1,0 +1,9 @@
+.classe {
+  font-size: 10px; }
+  .classe .filho {
+    width: 100px; }
+  .classe .filho {
+    height: 200px; }
+
+.classe {
+  font-size: 10px; }
