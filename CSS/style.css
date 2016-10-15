@@ -7,3 +7,6 @@
 
 .classe {
   font-size: 10px; }
+
+.filho {
+  counter-reset: 10px; }
